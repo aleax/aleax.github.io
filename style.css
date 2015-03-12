@@ -1,0 +1,33 @@
+h1{
+	font-size: 125%;
+}
+
+body{
+	font-family: sans-serif;
+/* 	background: black; */
+/* 	color: white; */
+}
+
+table{
+	line-height: 1.7em;
+}
+
+table{
+	empty-cells: show;
+	border-collapse: collapse
+}
+table.simple_table td{
+	border: 1px solid #ddd;
+	padding: 0 5px 0 5px
+}
+
+.contacts{
+}
+#icq{
+	text-decoration:line-through;
+	color: gray;
+}
+#title_href{
+	color: black;
+	font-size: 125%;
+}
